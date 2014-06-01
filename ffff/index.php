@@ -56,6 +56,8 @@ Følgende forkortelsesliste foreligger for foreningens fagmedlemmer:
 <dd>/ˈskwēl/</dd>
 <dt>.SVG<br />(Scalable Vector Graphics)</dt>
 <dd>/ˈswag/</dd>
+<dt>URL<br />(Uniform Resource Locator)</dt>
+<dd>/ʊˈral/</dd>
 </dl>
 
 </div>
